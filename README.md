@@ -1,2 +1,2 @@
 # Augusto Urféia
-Meu primeiro projeto.
+Meu primeiro projeto com Python, simples, eu sei.
